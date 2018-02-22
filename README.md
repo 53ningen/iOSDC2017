@@ -8,8 +8,11 @@ iOSDC Japan 2017　2日目 14:20〜14:50 Track A
 
 口頭で発表した9割の内容は以下の記事に書き起こしてあります。
 
-[http://qiita.com/gomi_ningen/items/c796c08fe672610beecf](http://qiita.com/gomi_ningen/items/c796c08fe672610beecf)
+* [http://qiita.com/gomi_ningen/items/c796c08fe672610beecf](http://qiita.com/gomi_ningen/items/c796c08fe672610beecf)
 
+あるいは、
+
+* [Contents.md](./Contents.md) を参照してください。
 
 ## スライド
 
